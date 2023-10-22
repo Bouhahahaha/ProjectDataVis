@@ -1,9 +1,7 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 import plotly.express as px
 import plotly.graph_objects as go
-import numpy as np
 from Functions import getpuuid, getgameid, getGameInfo,get_person_by_id, getnbrofgamesonchamps, getLP
 
 
