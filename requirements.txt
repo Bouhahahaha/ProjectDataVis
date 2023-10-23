@@ -1,4 +1,4 @@
-﻿python==1.10.5
+﻿python== 3.10.4
 streamlit
 seaborn
 pandas
